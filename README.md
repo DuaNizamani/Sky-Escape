@@ -1,2 +1,2 @@
 # Sky-Escape
-This site would be folder of my insights and experiences.
+This site would be a folder of my insights and experiences.
